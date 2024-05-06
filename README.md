@@ -17,7 +17,7 @@ USGS Earthquake Data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.
   - Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color
 ![image](https://github.com/antara2022/USGS-Earthquake-Data/assets/112270155/8b5cbe34-c705-472a-8eb9-596e660271f2)
 
-- Popups provide additional information about the earthquake including the location, magnitude, depth and time when its associated marker is clicked
+- Popups provide additional information about the earthquake including the location, magnitude and time when its associated marker is clicked
 ![image](https://github.com/antara2022/USGS-Earthquake-Data/assets/112270155/a558abcb-5ec0-4220-96b1-36accd0b1a02)
 
 - Legend provides context for the map data
