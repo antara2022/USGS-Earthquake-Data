@@ -9,7 +9,7 @@ USGS Earthquake Data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.
 
 ## Objectives
 ### Step 1 - D3 Import
-- Use the D3 library to read in all_week.geojson from the URL
+- Use the D3 library to read in all_month.geojson from the URL
 ### Step 2 - Leaflet Visualization
 - Utilize Leaflet to visualize an USGS earthquake dataset
   - Create a map that plots all the earthquakes from the dataset based on their longitude and latitude
