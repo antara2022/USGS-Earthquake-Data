@@ -21,6 +21,7 @@ USGS Earthquake Data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.
 ![image](https://github.com/antara2022/USGS-Earthquake-Data/assets/112270155/a558abcb-5ec0-4220-96b1-36accd0b1a02)
 
 - Legend provides context for the map data
+
 ![image](https://github.com/antara2022/USGS-Earthquake-Data/assets/112270155/25c69e68-c719-445c-a3e1-567e715542e4)
 
 Contact: antara.choudhury3000@gmail.com
